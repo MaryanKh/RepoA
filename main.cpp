@@ -10,5 +10,7 @@ int main()
 	cin>>a;
 	cout<<"Input b: ";
 	cin>>b;
+	
+	cout<<"Sum= "<<a+b;
 	return 0;
 }
